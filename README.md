@@ -4,7 +4,7 @@
 </p>
 
 ## :sassy_man:  About me
-- 🏢: I am a `Senior` PHP Developer at Fortuneglobe
+- 🏢: I am a `Senior` PHP Developer at <a href="https://github.com/qossmic">Qossmic</a>
 - 👨‍🎓 Co-Founder of <a href="https://phpug-dresden.org/"><img src="https://avatars.githubusercontent.com/u/16303605?s=12&v=4"> PHP USERGROUP Dresden e.V</a>
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `k8s architecture` and `GitHub Actions`.
