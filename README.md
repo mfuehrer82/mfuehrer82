@@ -3,6 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2D91F7&lines=Hello+%3A)+I+am+a+PHP+Developer;Never+stop+learning+new+things;Welcome+to+my+page.&center=true&width=500&height=50"></a>
 </p>
 
+## Don't miss <a href="https://phpdd.org/"><img src="https://avatars.githubusercontent.com/u/16303605?s=20&v=4"> PHP DEVELOPER DAY Dresden 2023</a>
+
+
 ## :sassy_man:  About me
 - 🏢: I am a `Senior` PHP Developer at <a href="https://github.com/qossmic">Qossmic</a>
 - 👨‍🎓 Co-Founder of <a href="https://phpug-dresden.org/"><img src="https://avatars.githubusercontent.com/u/16303605?s=12&v=4"> PHP USERGROUP Dresden e.V</a>
